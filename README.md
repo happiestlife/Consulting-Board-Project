@@ -16,3 +16,7 @@
 4. ORM : MyBatis
 5. IDE : IntelliJ
 6. 형상관리도구 : github
+
+
+## 프로젝트 페이지
+https://www.notion.so/cdb17d3556884eddad191ffb85895545
